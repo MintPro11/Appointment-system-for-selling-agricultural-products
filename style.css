@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200&display=swap');
+body {
+  background-color: rgb(236, 196, 146);
+}
+h1.a 
+{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Mitr', sans-serif;
+}
+.a 
+{
+  text-decoration: none;
+}
+p {
+  color: white;
+  padding: 3px;
+}
+div.first {
+  background-color: white;
+  width: 60%;
+  border: 1rem solid rgb(0, 0, 0);
+  padding: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+span.first {
+  background-color: white;
+  align-items: center;
+  display: block;
+  width: 250px;
+  height: 50px;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid rgb(0, 0, 0);    
+}
+footer {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  background-color: rgb(255, 231, 150);
+  color: rgb(0, 0, 0);
+  text-align: center;
+
+} 
